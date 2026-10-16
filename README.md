@@ -66,7 +66,7 @@ BreakFree helps people quit smoking, alcohol, or any habit by making the journey
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Devanshu-17/breakfree.git
+git clone https://github.com/Devanshu23-ux/Breakfree.git
 cd breakfree
 ```
 
